@@ -1,2 +1,2 @@
 # Church-Webpage
-Interactive Webpage showcasing the fellowship,Cotacts, location of a church 
+Interactive Webpage showcasing the fellowship,Contacts, location of a church 
